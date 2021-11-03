@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the New Gaming Experience With New Vibes
+          Join the new gaming experience with new vibes
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -53,10 +53,13 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            {/* <Link to='/'>Instagram</Link> */}
+            <a href="https://www.instagram.com/teamtx_finithic/">Instagram</a>
+            {/* <Link to='/'>Facebook</Link> */}
+            <a href="https://www.facebook.com/nilanjan.guha.988/">Facebook</a>
+            {/* <Link to='/'>Youtube</Link> */}
+            <a href="https://www.youtube.com/channel/UCR2ITgJJ1L6Y0cbnadc7h_A">Youtube</a>
+            {/* <Link to='/'>Twitter</Link> */}
           </div>
         </div>
       </div>
@@ -64,11 +67,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              F i N i T h i C
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>TeamTx FiNiThiC</small>
           <div class='social-icons'>
           <div
               class='social-icon-link facebook'>
