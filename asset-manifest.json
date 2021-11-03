@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nilanjan-guha/website/static/css/main.d2774e18.chunk.css",
+    "main.js": "/nilanjan-guha/website/static/js/main.80b903c3.chunk.js",
+    "main.js.map": "/nilanjan-guha/website/static/js/main.80b903c3.chunk.js.map",
+    "runtime-main.js": "/nilanjan-guha/website/static/js/runtime-main.872722c5.js",
+    "runtime-main.js.map": "/nilanjan-guha/website/static/js/runtime-main.872722c5.js.map",
+    "static/js/2.cfcde2c0.chunk.js": "/nilanjan-guha/website/static/js/2.cfcde2c0.chunk.js",
+    "static/js/2.cfcde2c0.chunk.js.map": "/nilanjan-guha/website/static/js/2.cfcde2c0.chunk.js.map",
+    "index.html": "/nilanjan-guha/website/index.html",
+    "static/css/main.d2774e18.chunk.css.map": "/nilanjan-guha/website/static/css/main.d2774e18.chunk.css.map",
+    "static/js/2.cfcde2c0.chunk.js.LICENSE.txt": "/nilanjan-guha/website/static/js/2.cfcde2c0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nilanjan-guha/website/static/media/img-6.047226b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872722c5.js",
+    "static/js/2.cfcde2c0.chunk.js",
+    "static/css/main.d2774e18.chunk.css",
+    "static/js/main.80b903c3.chunk.js"
+  ]
+}
